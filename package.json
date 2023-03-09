@@ -1,0 +1,16 @@
+{
+  "name": "webanalyser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyser.js",
+  "scripts": {
+    "start": "node analyser"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-contrast": "^3.0.0",
+    "puppeteer": "^19.7.3"
+  }
+}
